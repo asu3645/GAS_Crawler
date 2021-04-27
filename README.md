@@ -1,6 +1,8 @@
 # GAS_Crawler(爬蟲小精靈)
 ## 用意
 省去手動到官網查詢的時間、精力，事先排版好，資訊簡潔有力
+## 開發介面
+- Google Apps Script
 ## 使用套件
 - Cheerio
 - Line Notify API
