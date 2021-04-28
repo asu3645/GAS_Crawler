@@ -16,5 +16,5 @@
 - 中油汽油油價(因官網改版且我不再使用，故不再更新)
 - 航運運價指數(SCFI)
 ## Demo
-![alt text](https://i.imgur.com/MpBl53S.png)
-![alt text](https://i.imgur.com/ytrLzjc.png)
+<img src=https://i.imgur.com/MpBl53S.png width=350 />
+<img src=https://i.imgur.com/ytrLzjc.png width=350 />
